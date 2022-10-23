@@ -3,7 +3,7 @@
 computers.
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me ? Simple: email me at ankit301001@gmail.com May follow on Linkedin as well
-- https://www.linkedin.com/in/ankit-rupal-597945201/
+- Connect with me at Linkedin : https://www.linkedin.com/in/ankit-rupal-597945201/
 
 <!---
 AnkitRupal/AnkitRupal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
